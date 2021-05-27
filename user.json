@@ -1,0 +1,20 @@
+[{
+    
+    "name":"faizan",
+    "email":"yahoot@yahoo.com",             
+    "password":"qwerty",
+    "role":"admin"
+},
+    {
+       
+        "name":"tariq",
+        "email":"yahou@yahoo.com",             
+        "password":"qwerty",
+        "role":"publisher"},
+    {
+        
+        "name":"Ali",
+        "email":"yahoo@yahoo.com",             
+        "password":"qwerty",
+        "role":"user"}
+    ]
